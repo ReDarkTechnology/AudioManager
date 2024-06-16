@@ -1,9 +1,9 @@
 {
-	"name": "com.brogrammist.jsam",
-	"displayName": "Jacky's Simple Audio Manager",
-	"version": "3.0.0-preview.6",
+	"name": "com.arphros.audiomgr",
+	"displayName": "Arphros's Audio Manager",
+	"version": "3.0.1",
 	"unity": "2022.2",
-	"description": "A decentralized audio playing system for Unity, designed for simplicity and built to scale!",
+	"description": "A decentralized audio playing system for Unity, designed for simplicity and built to scale! Modified for Arphros",
 	"category": "",
 	"documentationUrl": "https://jackyyang09.github.io/Simple-Unity-Audio-Manager/",
 	"author": {
